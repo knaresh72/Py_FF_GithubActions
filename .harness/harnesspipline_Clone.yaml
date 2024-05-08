@@ -1,0 +1,9 @@
+---
+pipeline:
+  projectIdentifier: "PythonAplicationGithubActions"
+  orgIdentifier: "default"
+  tags: {}
+  stages:
+  - test1: 1
+  identifier: "harnesspipline_Clone"
+  name: "harnesspipline - Clone"
