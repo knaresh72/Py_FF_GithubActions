@@ -1,0 +1,8 @@
+pipeline:
+  name: harnesspipline
+  identifier: harnesspipline
+  projectIdentifier: PythonAplicationGithubActions
+  orgIdentifier: default
+  tags: {}
+  stages:
+    - test1: 1
